@@ -16,10 +16,10 @@ backlight_full = "☀️ "
 block = "pacman"
 
 [[block]]
-block = "sound"
+block = "backlight"
 
 [[block]]
-block = "backlight"
+block = "sound"
 
 [[block]]
 block = "battery"
