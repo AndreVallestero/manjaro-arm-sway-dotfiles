@@ -1,6 +1,10 @@
 [theme]
 name = "gruvbox-dark"
 [theme.overrides]
+info_bg = "#076678"
+good_bg = "#79740e"
+warning_bg = "#b57614"
+critical_bg = "#9d0006"
 alternating_tint_bg = "#14100e"
 
 [icons]
@@ -27,8 +31,10 @@ device = "DisplayDevice"
 driver = "upower"
 format = "{percentage}% {time}"
 
-#[[block]]
-#block = "speedtest"
+[[block]]
+block = "net"
+device = "wlan0"
+speed_down = true
 
 [[block]]
 block = "memory"
