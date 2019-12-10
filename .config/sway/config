@@ -20,6 +20,7 @@ set $term $TERMINAL
 set $menu bemenu-run -b | xargs swaymsg exec --
 
 default_border pixel 1
+hide_edge_borders smart
 #for_window [class="^.*"] border pixel 1
 
 ### Output configuration
