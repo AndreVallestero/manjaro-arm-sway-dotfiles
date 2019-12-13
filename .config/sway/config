@@ -234,6 +234,6 @@ client.focused_inactive	#282828	#1d2021	#a89984	#282828	#282828
 client.unfocused	#282828	#1d2021	#a89984	#282828	#282828
 client.urgent		#cc241d	#1d2021	#a89984	#cc241d	#cc241d
 
-xwayland disable
+#xwayland disable
 
 include /etc/sway/config.d/*
