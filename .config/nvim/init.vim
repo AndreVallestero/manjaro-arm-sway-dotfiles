@@ -9,6 +9,7 @@ endif
 
 call plug#begin('~/.config/nvim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'sheerun/vim-polyglot' "syntax highlighting"
 call plug#end()
 
 " Some basics:
