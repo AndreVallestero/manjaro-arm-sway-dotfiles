@@ -10,11 +10,11 @@ alternating_tint_bg = "#14100e"
 [icons]
 name = "awesome"
 [icons.overrides]
-backlight_empty = "☀️ "
-backlight_partial1 = "☀️ "
-backlight_partial2 = "☀️ "
-backlight_partial3 = "☀️ "
-backlight_full = "☀️ "
+backlight_empty = " ☀️ "
+backlight_partial1 = " ☀️ "
+backlight_partial2 = " ☀️ "
+backlight_partial3 = " ☀️ "
+backlight_full = " ☀️ "
 
 [[block]]
 block = "pacman"
