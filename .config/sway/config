@@ -213,7 +213,7 @@ bindsym $mod+r mode "resize"
 bar {
     position bottom
     # 8 or 11 or 14 work best
-    font NotoSansMono Nerd Font 11
+    font UbuntuMono Nerd Font Mono 15
 
     # When the status_command prints a new line to stdout, swaybar updates.
     status_command i3status-rs ~/.config/sway/status.toml
