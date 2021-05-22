@@ -2,5 +2,6 @@
 Personal dotfiles and scripts for Manjaro ARM with the Sway window manager. Used in MASARS
 
 ## TODO
-- Use pulse mixer instead of alsamixer since i3status rust depends on pulsmixer for stable interface names
-- Use the foot terminal emulator
+- [Rewrite nvim conf to lua](https://oroques.dev/notes/neovim-init/)
+- Opt for the new nvim built-in LSP client instead of CoC
+- Use a lua based nvim package manager like paq or packer
