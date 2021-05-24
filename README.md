@@ -13,3 +13,4 @@ Personal dotfiles and scripts for Manjaro ARM with the Sway window manager. Used
   - Rust Analyzer
   - Clippy
   - RustFmt
+- Disable nvim-treesitter unless needed
