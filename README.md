@@ -10,5 +10,6 @@ Personal dotfiles and scripts for Manjaro ARM with the Sway window manager. Used
   - ESLint
   - Prettier
 - Add full support for Rust
+  - Rust Analyzer
   - Clippy
   - RustFmt
